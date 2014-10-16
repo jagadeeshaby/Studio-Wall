@@ -63,7 +63,7 @@ define([
 		
 		socialMediaLinkClicked : function(){
 		    
-			window.open($(this).data('url'), "", "width="+window.innerWidth+", height="+window.innerHeight);
+			//window.open($(this).data('url'), "", "width="+window.innerWidth+", height="+window.innerHeight);
 		},
 		
 		getSocialFeeds : function(){
