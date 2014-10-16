@@ -1,0 +1,42 @@
+	<div id="inspire" style="display:none;" class="wallView">
+		<div style="display:none;" class="viewCarousel">
+			 <ul class="bxslider" data-ref-id='#inspImgWrapper'>
+				<script id="inspImgWrapper" type="text/x-handlebars-template">
+					{{#each this}}
+						<li>
+						{{#if hasVideo}}
+						  		<video id="video" width="100%" height="100%" controls>
+					                <source src="media/{{src}}" type="video/mp4">
+					                Your browser does not support the video tag.
+					            </video>
+		        		{{else}}
+			        			<img src="media/{{src}}" />	
+		        		{{/if}}
+		        		</li>
+	        		{{/each}}
+		        </script>		
+			</ul>
+		</div>
+		<div class="studioDescription">
+			<h2>Inspire</h2>
+			<div class="carouselControllerWrapper">
+				<button class='carouselControllerPrev'></button> 
+				<button class='carouselControllerNext'></button>
+				<div class="carouselControllerContainer">
+					<div class="carouselController">
+							
+					</div>
+				</div>
+			</div>	
+			<div class="carouselDescription" data-ref-id="#inspireDataDescription">
+				<script id="inspireDataDescription" type="text/x-handlebars-template">
+					{{#each this}}
+						<div class="itemDetails">
+		        			<h3>{{Heading}}</h3>
+		        			<p>{{Description}}</p>	
+	        			</div>
+	        		{{/each}}
+		        </script>	 		
+			</div>
+		</div>
+	</div>

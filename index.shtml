@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  
+  <title>Studio Wall</title>
+  <link rel="stylesheet" href="css/common.css">
+  <link rel="stylesheet" href="css/gallery/jquery.bxslider.css">
+  <link rel="stylesheet" href="css/custom.css">
+</head>
+<body>
+  <div id="wrap">
+    <!--#include virtual="includes/home.html" -->
+    <!--#include virtual="includes/socialVersion1.html" -->
+    <!--#include virtual="includes/innovate.html" -->
+    <!--#include virtual="includes/inspire.html" -->
+    <!--#include virtual="includes/gallery.html" -->
+    <a class='homeIcon' href='javascript:void' style='display:none'>Home</a>
+  </div>
+    
+  <script src="js/lib/require.js"></script>    
+  <script src="js/main.js"></script>
+
+</body>
+</html>

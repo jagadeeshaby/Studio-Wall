@@ -1,0 +1,26 @@
+<div id="social" style="display: none;" class="wallView" data-template-id="socialMessages">
+	<div id="socialUpdates" >
+	<div class="loadingImage"><img align="middle" src="images/loading_big_transparent.gif" /> </div>
+		<script id="socialMessages" type="text/x-handlebars-template">	
+				{{#each this}}
+				<div class="socialMediaLink" data-url="{{url}}">
+					{{#ifCond service '==' 'facebook'}}
+				      
+                		<div class="facebook">	
+                    		<img src="images/icon-facebook.png" align="left"/>	
+                   			 <h2>{{screen}} - {{dateFormat timeStamp}}</h2>
+                    		 <p>{{post}}</p>
+               			 </div>
+              			
+		        	{{else}}
+			        	<div class="twitter">
+							<img src="images/icon-twitter.png" align="left" />
+                   			 <h2>@{{screen}} - {{dateFormat timeStamp }}</h2>
+                    		 <p>{{post}}</p>		  
+               			 </div>
+		        	{{/ifCond}}
+			</div>
+	        		{{/each}}
+     </script>
+	</div>
+</div>
