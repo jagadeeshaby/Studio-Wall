@@ -92,7 +92,9 @@ require([
 				onHomeIconClicked : function(e){
 					var me = this;
 					e.preventDefault();
-					$(this).fadeOut(); 
+					
+					this.homeIcon.fadeout();  
+					
 					$(".wallView:visible").fadeOut(function() { 
 			            me.cloud9Container.fadeIn(); 
 			        });
