@@ -156,7 +156,7 @@ define([
 		
 		        this.sliderElement.addClass("hasCarousel");
 		        
-		       
+		        $(window).trigger('resize');
 			},
 			
 			/**
