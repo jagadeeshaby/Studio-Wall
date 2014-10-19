@@ -17,7 +17,8 @@ require([
         'js/wallHome',
         'js/socialFeeds',
         'js/slider',
-        'js/autoPlay'
+        'js/autoPlay',
+        'js/properties'
        ],
  function(
 		jquery,
@@ -25,7 +26,8 @@ require([
 		wallHome,
 		socialFeeds,
 		slider,
-		autoPlay
+		autoPlay,
+		properties
 		){
 	
 			/**
@@ -47,7 +49,7 @@ require([
 				 * @param autoPlayTime
 				 * used for configuring auto play timeout
 				 */
-				autoPlayTime : 60000,
+				autoPlayTime : properties.autoPlayTime,
 				
 				init : function(){		
 					this.initVariable();

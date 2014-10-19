@@ -49,6 +49,7 @@ define([
 				this.initVariable();
 
 				if(this.sliderElement.hasClass('hasCarousel')){
+					$(window).trigger('resize');
 					return true;
 				}else{
 					this.removeEventListeners();
