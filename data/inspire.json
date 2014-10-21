@@ -1,114 +1,80 @@
 [
 	{
-		"src": "inspire/gallery_jeep.png",
+		"src": "inspire/1.jpg",
 		"hasVideo" : false,
 		"alt": "alt of Imgae 1",
-		"Heading": "Dummy Images 1 Innovate",	
-		"Description": "Dummy description 1 Innovate"
+		"Heading": "XT SUMMIT",	
+		"Description": "Inspire, Innovate, Experience"
 	},
 	{
-		"src": "inspire/ribbit.mp4",
+		"src": "gallery/ribbit.mp4",
 		"hasVideo" : true,
 		"alt": "alt of Imgae 2",
-		"Heading": "Dummy Images 2 Innovate",	
-		"Description": "Dummy description 2 Innovate"
+		"Heading": "XT SUMMIT",	
+		"Description": "Inspire, Innovate, Experience"
 	},
 	{
-		"src": "inspire/gallery_jeep.png",
+		"src": "inspire/2.jpg",
 		"hasVideo" : false,
-		"alt": "alt of Imgae 3",
-		"Heading": "Dummy Images 3 Innovate",	
-		"Description": "Dummy description 3"
+		"alt": "alt of Imgae 1",
+		"Heading": "XT SUMMIT",	
+		"Description": "Inspire, Innovate, Experience"
 	},
 	{
-		"src": "inspire/gallery_jeep.png",
+		"src": "inspire/3.jpg",
 		"hasVideo" : false,
-		"alt": "alt of Imgae 4",
-		"Heading": "Dummy Images 4",	
-		"Description": "Dummy description 4"
+		"alt": "alt of Imgae 1",
+		"Heading": "XT SUMMIT",	
+		"Description": "Inspire, Innovate, Experience"
 	},
 	{
-		"src": "inspire/gallery_jeep.png",
+		"src": "inspire/4.jpg",
 		"hasVideo" : false,
-		"alt": "alt of Imgae 5",
-		"Heading": "Dummy Images 5",	
-		"Description": "Dummy description 5"
+		"alt": "alt of Imgae 1",
+		"Heading": "XT SUMMIT",	
+		"Description": "Inspire, Innovate, Experience"
 	},
 	{
-		"src": "inspire/gallery_jeep.png",
+		"src": "inspire/5.jpg",
 		"hasVideo" : false,
-		"alt": "alt of Imgae 6",
-		"Heading": "Dummy Images 6",	
-		"Description": "Dummy description 6"
+		"alt": "alt of Imgae 1",
+		"Heading": "XT SUMMIT",	
+		"Description": "Inspire, Innovate, Experience"
 	},
 	{
-		"src": "inspire/gallery_jeep.png",
+		"src": "inspire/6.jpg",
 		"hasVideo" : false,
-		"alt": "alt of Imgae 7",
-		"Heading": "Dummy Images 7",	
-		"Description": "Dummy description 7"
+		"alt": "alt of Imgae 1",
+		"Heading": "XT SUMMIT",	
+		"Description": "Inspire, Innovate, Experience"
 	},
 	{
-		"src": "inspire/gallery_jeep.png",
+		"src": "inspire/7.jpg",
 		"hasVideo" : false,
-		"alt": "alt of Imgae 8",
-		"Heading": "Dummy Images 8",	
-		"Description": "Dummy description 8"
+		"alt": "alt of Imgae 1",
+		"Heading": "XT SUMMIT",	
+		"Description": "Inspire, Innovate, Experience"
 	},
 	{
-		"src": "inspire/gallery_jeep.png",
+		"src": "inspire/8.jpg",
 		"hasVideo" : false,
-		"alt": "alt of Imgae 9",
-		"Heading": "Dummy Images 9",	
-		"Description": "Dummy description 9"
+		"alt": "alt of Imgae 1",
+		"Heading": "XT SUMMIT",	
+		"Description": "Inspire, Innovate, Experience"
 	},
 	{
-		"src": "inspire/gallery_jeep.png",
+		"src": "inspire/9.jpg",
 		"hasVideo" : false,
-		"alt": "alt of Imgae 10",
-		"Heading": "Dummy Images 10",	
-		"Description": "Dummy description 10"
+		"alt": "alt of Imgae 1",
+		"Heading": "XT SUMMIT",	
+		"Description": "Inspire, Innovate, Experience"
 	},
 	{
-		"src": "inspire/gallery_jeep.png",
+		"src": "inspire/10.jpg",
 		"hasVideo" : false,
-		"alt": "alt of Imgae 11",
-		"Heading": "Dummy Images 11",	
-		"Description": "Dummy description 11"
-	},
-	{
-		"src": "inspire/gallery_jeep.png",
-		"hasVideo" : false,
-		"alt": "alt of Imgae 12",
-		"Heading": "Dummy Images 12",	
-		"Description": "Dummy description 12"
-	},
-	{
-		"src": "inspire/gallery_jeep.png",
-		"hasVideo" : false,
-		"alt": "alt of Imgae 13",
-		"Heading": "Dummy Images 13",	
-		"Description": "Dummy description 13"
-	},
-	{
-		"src": "inspire/gallery_jeep.png",
-		"hasVideo" : false,
-		"alt": "alt of Imgae 14",
-		"Heading": "Dummy Images 14",	
-		"Description": "Dummy description 14"
-	},
-	{
-		"src": "inspire/gallery_jeep.png",
-		"hasVideo" : false,
-		"alt": "alt of Imgae 15",
-		"Heading": "Dummy Images 15",	
-		"Description": "Dummy description 15"
-	},
-	{
-		"src": "inspire/gallery_jeep.png",
-		"hasVideo" : false,
-		"alt": "alt of Imgae 16",
-		"Heading": "Dummy Images 16",	
-		"Description": "Dummy description 16"
+		"alt": "alt of Imgae 1",
+		"Heading": "XT SUMMIT",	
+		"Description": "Inspire, Innovate, Experience"
 	}
+	
 ]
