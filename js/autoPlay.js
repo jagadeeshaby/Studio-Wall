@@ -11,7 +11,7 @@ define(['js/lib/jquery'],function(){
    
     var currentView = 0;
     
-    var playVideo = false;
+     playVideo = false;
     
     var wallHomeElements = $('.card');
     

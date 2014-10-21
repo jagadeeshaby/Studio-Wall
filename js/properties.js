@@ -7,7 +7,7 @@ define(function(){
 		 * @param autoPlayTime
 		 * used for configuring auto play timeout
 		 */
-		autoPlayTime : 60000
+		autoPlayTime : 20000
 	};
 });
 

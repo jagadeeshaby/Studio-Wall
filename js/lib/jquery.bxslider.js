@@ -294,7 +294,7 @@
 			$(".itemDetails",slider.settings.parentRef).hide(function(){
 				setTimeout(function(){
 					$(".itemDetails", slider.settings.parentRef).eq(pagerIndex).fadeIn();
-				},300);
+				},100);
 			});
 		}
 		/* Disply Description End */
@@ -1232,7 +1232,6 @@
 		 *  - INTERNAL USE ONLY - the direction of travel ("prev" / "next")
 		 */
 		
-		var playVideo
 		
 	 function doFullScreen(el) {
   			if(el.getCurrentSlideElement().find('video').length>0){
