@@ -56,6 +56,7 @@ require([
 					this.initEvents();
 					this.initializeWallHomePage();
 					this.activateAutoPlay();
+					this.loadSocialFeeds($("[data-type='socialfeed']"));
 				},
 				
 				
